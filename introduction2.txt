@@ -1,0 +1,125 @@
+Q) What is the difference between python and Java?
+
+Python						Java
+-----------					------------
+It is developed by Guido Van Rossum.		It is develop by James Gosling.
+
+It is a product of Microsoft.			It is a product of Oracle Corporation.
+
+It is a scripting language.			It is a object oriented programming language.
+
+It is a interpreted language.			It is a compiled language.
+
+It contains PVM.				It contains JVM.
+(Python Virtual Machine)			(Java Virtual Machine)
+
+It is a dynamically typed language.		It is a statically typed language.
+
+Performance is low.				Performance is high.
+
+There is less security.				It is highly secured.
+
+
+Note:
+-----
+	.py file     ----------------------------------------- Machine 
+(High level language)
+
+
+
+	.java file ------------------ .class file -------------------------Machine
+(High level language)                  (Byte Code)
+
+
+Note:
+----
+	.py file ---------------------------------------------> machine 
+
+
+	.java file  ---------------- .class file -------------> JRE
+
+
+Project
+=======
+Technically , a project is a collection of modules.
+
+We have following list of modules.
+
+ex:
+	registration module 
+	admin module 
+	login module 
+	report generation module 
+	payment module
+	addtocart module 
+	shipping module
+	and etc.
+
+Every project contains two domains.
+
+1) Technical Domain 
+--------------
+	Technical domain describes using which technology we developed our project.
+	ex:
+		Java
+
+2) Functional Domain 
+--------------
+	Functional domain describes state of a project.
+	ex:
+		Healthcare domain 
+		Insaurance domain 
+		ERP domain 
+		Banking domain 
+		and etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

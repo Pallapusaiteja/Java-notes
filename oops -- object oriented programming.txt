@@ -1,0 +1,15 @@
+oops --> object oriented programming language.
+There are four types:
+
+1) ENCAPSULATION:-
+   in this it uses mainly private keyword which implies other classes are not accesible and to acces this we need to use methods.
+Methods are two types:
+a)get() method--> It access the values.
+b)set() method --> It assigns the values.
+Ex: it is like when ever a person want a permission he needs to take permission ffrom that person.
+
+2)INHERITAANCE:-
+  in this it accepts the values from the parent class
+
+
+Ex: a person accepts property or any wil from there parents. same way the child class accepts the values or any type from the parent class.
